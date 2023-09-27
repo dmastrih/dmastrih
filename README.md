@@ -33,7 +33,6 @@ Here are some ideas to get you started:
 -->
 <br />
 
-Привет, меня зовут Дима, я Инженер по данным.
 
 <br />
 
